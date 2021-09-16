@@ -127,7 +127,6 @@
     "editorBracketHighlight.foreground4": "#FFFF00",
     "editorBracketHighlight.foreground5": "#FFC600",
     "editorBracketHighlight.foreground6": "#FF0000",
-    "tab.activeBorder": "#FFFF00",
     "tab.activeBackground": "#193549"
   },
   // "workbench.colorTheme": "Cobalt2",
