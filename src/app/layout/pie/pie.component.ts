@@ -7,6 +7,4 @@ import { Component } from '@angular/core';
 })
 export class PieComponent {
   desarrollador = 'Jorge Zapata';
-
-  public fecha = new Date();
 }
